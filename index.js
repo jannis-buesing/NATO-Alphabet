@@ -106,9 +106,9 @@ function neueWörter(){
 //hintergrund ändern
 function checkAnswer(trueOrFalse) {
     if(trueOrFalse === true) { //wenn richtig: neue runde und grüner hintergrund
-        changeBackground("rgb(24, 68, 24)"); //grün
+        changeBackground("rgb(99, 180, 99)"); //grün
         setTimeout(() => {
-            changeBackground("rgb(44, 40, 29)"); //normalfarbe hintergrund
+            changeBackground("rgb(255, 255, 255)"); //normalfarbe hintergrund
           }, 500);
 
         streak++;
@@ -120,9 +120,9 @@ function checkAnswer(trueOrFalse) {
         }
         document.getElementById("p_streak").textContent = "Streak: " + streak;
     } else{ //wenn falsch: roter hintergrund
-        changeBackground("rgb(61, 8, 8)"); //rot
+        changeBackground("rgb(196, 114, 114)"); //grün
         setTimeout(() => {
-            changeBackground("rgb(44, 40, 29)"); //normalfarbe hintergrund
+            changeBackground("rgb(255, 255, 255)"); //normalfarbe hintergrund
           }, 500);
 
         streak = 0;
