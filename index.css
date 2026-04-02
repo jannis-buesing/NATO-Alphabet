@@ -28,7 +28,7 @@ section {
     margin: 0.3rem;
 }
 #button_1:hover, #button_2:hover, #button_3:hover{
-    background-color: rgb(175, 146, 113);
+    background-color: rgb(197, 170, 138);
 }
 
 #p_buchstabe, #p_streak{
