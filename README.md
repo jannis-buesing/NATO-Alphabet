@@ -2,7 +2,7 @@
 
 # NATO-Alphabet
 
-## [im Browser öffnen →](https://schwanniii.github.io/NATO-Alphabet/)
+## [im Browser öffnen →](https://jannis-buesing.github.io/NATO-Alphabet/)
 
   <img src="./preview/NATO-Alphabet.gif" alt="Anwendungsvorschau" width="100%">
 </div>
@@ -22,6 +22,6 @@
 
 ## Feedback
 
-[Fehler melden](https://github.com/schwanniii/NATO-Alphabet/issues) - [Feature vorschlagen](https://github.com/schwanniii/NATO-Alphabet/issues)
+[Fehler melden](https://github.com/jannis-buesing/NATO-Alphabet/issues) - [Feature vorschlagen](https://github.com/jannis-buesing/NATO-Alphabet/issues)
 
 </div>
