@@ -2,7 +2,7 @@ body {
     margin: 0;
     background-color: rgb(255, 255, 255);
     color: rgb(60, 60, 60);
-    font-family: fantasy;
+    font-family: Arial, sans-serif;
 }
 
 section {
@@ -20,16 +20,16 @@ section {
 
 #button_1, #button_2, #button_3{
     height: 8rem;
-    width: 10rem;
+    width: 12rem;
     margin: auto;
     border-radius: 0.5rem;
     font-size: 2.5rem;
     background-color: rgb(219, 185, 141);
     margin: 0.3rem;
 }
-#button_1:hover, #button_2:hover, #button_3:hover{
+/* #button_1:hover, #button_2:hover, #button_3:hover{
     background-color: rgb(197, 170, 138);
-}
+} */
 
 #p_buchstabe, #p_streak{
     height: 8rem;
@@ -42,7 +42,6 @@ section {
 }
 
 #p_höchsteStreak{
-    height: 8rem;
     width: auto;
     font-size: 2rem;
     color: rgb(145, 108, 108);

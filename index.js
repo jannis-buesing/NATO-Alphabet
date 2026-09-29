@@ -9,8 +9,7 @@ var höchsteStreak = 0;
 
 
 window.onload = function(){
-    dreiZufälligeZahlen = storageProxy.dreiZufälligeZahlen;
-    ausgewählterIndex = storageProxy.ausgewählterIndex;
+    neueWörter();
     streak = storageProxy.streak != null ? storageProxy.streak : 0;
     höchsteStreak = storageProxy.höchsteStreak != null ? storageProxy.höchsteStreak : 0;
 
